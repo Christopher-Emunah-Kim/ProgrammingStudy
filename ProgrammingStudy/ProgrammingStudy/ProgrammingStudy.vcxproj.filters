@@ -13,5 +13,34 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\practice">
+      <UniqueIdentifier>{92c6988b-8e6a-4c19-8bba-5b9bde40c9d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DataStructure">
+      <UniqueIdentifier>{de9da54a-c902-489d-9295-9b8ca2d57230}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="997. PrefixPostfix.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorStackTemplate.cpp">
+      <Filter>소스 파일\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="999. BuyCandy.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="998. ChangeTemperature.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="996.DiceGame.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="995. WhileCondition.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="994. multiplication.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
