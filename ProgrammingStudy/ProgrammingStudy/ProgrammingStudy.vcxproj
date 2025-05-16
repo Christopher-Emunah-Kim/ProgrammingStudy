@@ -127,6 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="981. HangManGame.cpp" />
+    <ClCompile Include="982. SameStrPosition.cpp" />
+    <ClCompile Include="983. EraseHypen.cpp" />
+    <ClCompile Include="984. WhereIsRome.cpp" />
+    <ClCompile Include="985. printfOverloading.cpp" />
     <ClCompile Include="986. FuncSwap.cpp" />
     <ClCompile Include="987. TicTacToe.cpp" />
     <ClCompile Include="988. MultiplicationTable.cpp" />
