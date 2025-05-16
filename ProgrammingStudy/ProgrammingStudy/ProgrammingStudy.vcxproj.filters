@@ -33,13 +33,31 @@
     <ClCompile Include="998. ChangeTemperature.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
-    <ClCompile Include="996.DiceGame.cpp">
+    <ClCompile Include="996. DiceGame.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
     <ClCompile Include="995. WhileCondition.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
     <ClCompile Include="994. multiplication.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="993. VowelConsonant.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="992. FineNumber.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="991. MathmaticsForElementary.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="990. TestAverageArray.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="989. FindBiggestNum.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="988. MultiplicationTable.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
   </ItemGroup>

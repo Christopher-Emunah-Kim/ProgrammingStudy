@@ -127,13 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="988. MultiplicationTable.cpp" />
+    <ClCompile Include="989. FindBiggestNum.cpp" />
+    <ClCompile Include="990. TestAverageArray.cpp" />
+    <ClCompile Include="991. MathmaticsForElementary.cpp" />
+    <ClCompile Include="992. FineNumber.cpp" />
     <ClCompile Include="994. multiplication.cpp" />
-    <ClCompile Include="996.DiceGame.cpp" />
+    <ClCompile Include="996. DiceGame.cpp" />
     <ClCompile Include="999. BuyCandy.cpp" />
     <ClCompile Include="998. ChangeTemperature.cpp" />
     <ClCompile Include="997. PrefixPostfix.cpp" />
     <ClCompile Include="VectorStackTemplate.cpp" />
     <ClCompile Include="995. WhileCondition.cpp" />
+    <ClCompile Include="993. VowelConsonant.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
