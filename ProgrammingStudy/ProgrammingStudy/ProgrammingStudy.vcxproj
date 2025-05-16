@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="986. FuncSwap.cpp" />
     <ClCompile Include="987. TicTacToe.cpp" />
     <ClCompile Include="988. MultiplicationTable.cpp" />
     <ClCompile Include="989. FindBiggestNum.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="999. BuyCandy.cpp" />
     <ClCompile Include="998. ChangeTemperature.cpp" />
     <ClCompile Include="997. PrefixPostfix.cpp" />
+    <ClCompile Include="985. FuncSquare.cpp" />
     <ClCompile Include="VectorStackTemplate.cpp" />
     <ClCompile Include="995. WhileCondition.cpp" />
     <ClCompile Include="993. VowelConsonant.cpp" />

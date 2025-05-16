@@ -17,7 +17,7 @@ using namespace std;
 //		}
 //	}
 //	
-//	int x, y;
+//	int x, y;s
 //	//게임 시작
 //	for (int j = 0; j < 9; j++)
 //	{
