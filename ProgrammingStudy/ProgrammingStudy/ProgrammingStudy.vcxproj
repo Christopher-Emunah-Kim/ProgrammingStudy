@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="987. TicTacToe.cpp" />
     <ClCompile Include="988. MultiplicationTable.cpp" />
     <ClCompile Include="989. FindBiggestNum.cpp" />
     <ClCompile Include="990. TestAverageArray.cpp" />
