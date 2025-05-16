@@ -19,69 +19,75 @@
     <Filter Include="소스 파일\DataStructure">
       <UniqueIdentifier>{de9da54a-c902-489d-9295-9b8ca2d57230}</UniqueIdentifier>
     </Filter>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{3c2273d6-4c63-48df-92bc-de0df0afec3e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="997. PrefixPostfix.cpp">
+    <ClCompile Include="Practice\981. HangManGame.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
-    <ClCompile Include="VectorStackTemplate.cpp">
+    <ClCompile Include="Practice\982. SameStrPosition.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\983. EraseHypen.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\984. WhereIsRome.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\985. FuncSquare.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\985. printfOverloading.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\986. FuncSwap.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\987. TicTacToe.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\988. MultiplicationTable.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\989. FindBiggestNum.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\990. TestAverageArray.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\991. MathmaticsForElementary.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\992. FineNumber.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\993. VowelConsonant.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\994. multiplication.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\995. WhileCondition.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\996. DiceGame.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\997. PrefixPostfix.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\998. ChangeTemperature.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\999. BuyCandy.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\VectorStackTemplate.cpp">
       <Filter>소스 파일\DataStructure</Filter>
     </ClCompile>
-    <ClCompile Include="999. BuyCandy.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="998. ChangeTemperature.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="996. DiceGame.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="995. WhileCondition.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="994. multiplication.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="993. VowelConsonant.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="992. FineNumber.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="991. MathmaticsForElementary.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="990. TestAverageArray.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="989. FindBiggestNum.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="988. MultiplicationTable.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="987. TicTacToe.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="985. FuncSquare.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="986. FuncSwap.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="985. printfOverloading.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="984. WhereIsRome.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="983. EraseHypen.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="982. SameStrPosition.cpp">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="981. HangManGame.cpp">
+    <ClCompile Include="practice\980. practice.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
   </ItemGroup>

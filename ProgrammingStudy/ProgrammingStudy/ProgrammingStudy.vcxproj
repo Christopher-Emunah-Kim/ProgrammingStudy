@@ -127,27 +127,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="981. HangManGame.cpp" />
-    <ClCompile Include="982. SameStrPosition.cpp" />
-    <ClCompile Include="983. EraseHypen.cpp" />
-    <ClCompile Include="984. WhereIsRome.cpp" />
-    <ClCompile Include="985. printfOverloading.cpp" />
-    <ClCompile Include="986. FuncSwap.cpp" />
-    <ClCompile Include="987. TicTacToe.cpp" />
-    <ClCompile Include="988. MultiplicationTable.cpp" />
-    <ClCompile Include="989. FindBiggestNum.cpp" />
-    <ClCompile Include="990. TestAverageArray.cpp" />
-    <ClCompile Include="991. MathmaticsForElementary.cpp" />
-    <ClCompile Include="992. FineNumber.cpp" />
-    <ClCompile Include="994. multiplication.cpp" />
-    <ClCompile Include="996. DiceGame.cpp" />
-    <ClCompile Include="999. BuyCandy.cpp" />
-    <ClCompile Include="998. ChangeTemperature.cpp" />
-    <ClCompile Include="997. PrefixPostfix.cpp" />
-    <ClCompile Include="985. FuncSquare.cpp" />
-    <ClCompile Include="VectorStackTemplate.cpp" />
-    <ClCompile Include="995. WhileCondition.cpp" />
-    <ClCompile Include="993. VowelConsonant.cpp" />
+    <ClCompile Include="DataStructure\VectorStackTemplate.cpp" />
+    <ClCompile Include="practice\980. practice.cpp" />
+    <ClCompile Include="Practice\981. HangManGame.cpp" />
+    <ClCompile Include="Practice\982. SameStrPosition.cpp" />
+    <ClCompile Include="Practice\983. EraseHypen.cpp" />
+    <ClCompile Include="Practice\984. WhereIsRome.cpp" />
+    <ClCompile Include="Practice\985. FuncSquare.cpp" />
+    <ClCompile Include="Practice\985. printfOverloading.cpp" />
+    <ClCompile Include="Practice\986. FuncSwap.cpp" />
+    <ClCompile Include="Practice\987. TicTacToe.cpp" />
+    <ClCompile Include="Practice\988. MultiplicationTable.cpp" />
+    <ClCompile Include="Practice\989. FindBiggestNum.cpp" />
+    <ClCompile Include="Practice\990. TestAverageArray.cpp" />
+    <ClCompile Include="Practice\991. MathmaticsForElementary.cpp" />
+    <ClCompile Include="Practice\992. FineNumber.cpp" />
+    <ClCompile Include="Practice\993. VowelConsonant.cpp" />
+    <ClCompile Include="Practice\994. multiplication.cpp" />
+    <ClCompile Include="Practice\995. WhileCondition.cpp" />
+    <ClCompile Include="Practice\996. DiceGame.cpp" />
+    <ClCompile Include="Practice\997. PrefixPostfix.cpp" />
+    <ClCompile Include="Practice\998. ChangeTemperature.cpp" />
+    <ClCompile Include="Practice\999. BuyCandy.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
