@@ -128,6 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure\VectorStackTemplate.cpp" />
+    <ClCompile Include="Practice\972. Bistwidse Operator.cpp" />
+    <ClCompile Include="Practice\973. Logical Operator.cpp" />
+    <ClCompile Include="Practice\974. Relational Operator.cpp" />
+    <ClCompile Include="Practice\975. Conditional Operator.cpp" />
+    <ClCompile Include="Practice\976. Comma Operator.cpp" />
+    <ClCompile Include="Practice\977. floating point.cpp" />
+    <ClCompile Include="Practice\978. Char Type2.cpp" />
+    <ClCompile Include="Practice\979. Char Type.cpp" />
     <ClCompile Include="practice\980. practice.cpp" />
     <ClCompile Include="Practice\981. HangManGame.cpp" />
     <ClCompile Include="Practice\982. SameStrPosition.cpp" />
