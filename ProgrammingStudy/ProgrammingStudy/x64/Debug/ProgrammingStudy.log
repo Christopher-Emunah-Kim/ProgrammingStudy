@@ -1,4 +1,5 @@
-﻿  968. Variables.cpp
-  969. BitFlag Quiz.cpp
+﻿  967. Type Conversion.cpp
+  968. Variables.cpp
   코드를 생성하고 있습니다...
+C:\Users\hashin\Documents\GitHub\ProgrammingStudy\ProgrammingStudy\ProgrammingStudy\Practice\967. Type Conversion.cpp(9,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   ProgrammingStudy.vcxproj -> C:\Users\hashin\Documents\GitHub\ProgrammingStudy\ProgrammingStudy\x64\Debug\ProgrammingStudy.exe

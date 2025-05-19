@@ -126,6 +126,9 @@
     <ClCompile Include="Practice\968. Variables.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
+    <ClCompile Include="Practice\967. Type Conversion.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="971. BitMask" />

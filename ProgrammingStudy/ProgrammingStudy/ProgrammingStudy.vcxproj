@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure\VectorStackTemplate.cpp" />
+    <ClCompile Include="Practice\967. Type Conversion.cpp" />
     <ClCompile Include="Practice\968. Variables.cpp" />
     <ClCompile Include="Practice\969. BitFlag Quiz.cpp" />
     <ClCompile Include="Practice\970. BitMask.cpp" />
