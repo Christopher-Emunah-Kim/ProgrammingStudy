@@ -135,6 +135,36 @@
     <ClCompile Include="Practice\964. Enumerated Types.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
+    <ClCompile Include="Practice\963. Scoped Enumerations.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\962. Type Aliases.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\961. BaseStruct.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\960. Conditional Branches.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\959. Swtich Case.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\958. Jump.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\957. While.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\956. For Reputation.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\955. RandNumGenerator.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\954. cin_ignore_fail_clear.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="971. BitMask" />

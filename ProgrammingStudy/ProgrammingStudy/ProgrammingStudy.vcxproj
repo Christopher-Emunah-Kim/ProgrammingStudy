@@ -128,6 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure\VectorStackTemplate.cpp" />
+    <ClCompile Include="Practice\954. cin_ignore_fail_clear.cpp" />
+    <ClCompile Include="Practice\955. RandNumGenerator.cpp" />
+    <ClCompile Include="Practice\956. For Reputation.cpp" />
+    <ClCompile Include="Practice\957. While.cpp" />
+    <ClCompile Include="Practice\958. Jump.cpp" />
+    <ClCompile Include="Practice\959. Swtich Case.cpp" />
+    <ClCompile Include="Practice\960. Conditional Branches.cpp" />
+    <ClCompile Include="Practice\961. BaseStruct.cpp" />
+    <ClCompile Include="Practice\962. Type Aliases.cpp" />
+    <ClCompile Include="Practice\963. Scoped Enumerations.cpp" />
     <ClCompile Include="Practice\964. Enumerated Types.cpp" />
     <ClCompile Include="Practice\965. String.cpp" />
     <ClCompile Include="Practice\967. Type Conversion.cpp" />
