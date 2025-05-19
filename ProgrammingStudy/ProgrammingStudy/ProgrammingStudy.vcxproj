@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure\VectorStackTemplate.cpp" />
+    <ClCompile Include="Practice\968. Variables.cpp" />
+    <ClCompile Include="Practice\969. BitFlag Quiz.cpp" />
+    <ClCompile Include="Practice\970. BitMask.cpp" />
+    <ClCompile Include="Practice\971. BitFlag.cpp" />
     <ClCompile Include="Practice\972. Bistwidse Operator.cpp" />
     <ClCompile Include="Practice\973. Logical Operator.cpp" />
     <ClCompile Include="Practice\974. Relational Operator.cpp" />
@@ -157,6 +161,9 @@
     <ClCompile Include="Practice\997. PrefixPostfix.cpp" />
     <ClCompile Include="Practice\998. ChangeTemperature.cpp" />
     <ClCompile Include="Practice\999. BuyCandy.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="971. BitMask" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
