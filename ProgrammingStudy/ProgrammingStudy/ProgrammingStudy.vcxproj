@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure\VectorStackTemplate.cpp" />
+    <ClCompile Include="Practice\935. Double Pointer Array.cpp" />
+    <ClCompile Include="Practice\936. Void Pointer.cpp" />
+    <ClCompile Include="Practice\937. Member Selection Operator.cpp" />
+    <ClCompile Include="Practice\938. Reference and Const.cpp" />
     <ClCompile Include="Practice\939. Reference.cpp" />
     <ClCompile Include="Practice\940. Pointer and Const.cpp" />
     <ClCompile Include="Practice\941. Dynamic Allocating Arrays.cpp" />
