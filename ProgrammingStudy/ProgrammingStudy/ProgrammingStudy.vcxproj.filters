@@ -171,6 +171,12 @@
     <ClCompile Include="Practice\952. Array 2.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
+    <ClCompile Include="Practice\950. Selection Sort.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\951. Array 3.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="971. BitMask" />
