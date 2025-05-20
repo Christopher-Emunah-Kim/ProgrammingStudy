@@ -186,6 +186,12 @@
     <ClCompile Include="Practice\947. Pointer 1.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
+    <ClCompile Include="Practice\946. Pointer 2.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\945. Pointer 3.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="971. BitMask" />
