@@ -201,7 +201,10 @@
     <ClCompile Include="Practice\942. Dynamic Memory Allocation.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
-    <ClCompile Include="Practice\942. Dynamic Allocating Arrays.cpp">
+    <ClCompile Include="Practice\940. Pointer and Const.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\941. Dynamic Allocating Arrays.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
   </ItemGroup>

@@ -128,7 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure\VectorStackTemplate.cpp" />
-    <ClCompile Include="Practice\942. Dynamic Allocating Arrays.cpp" />
+    <ClCompile Include="Practice\940. Pointer and Const.cpp" />
+    <ClCompile Include="Practice\941. Dynamic Allocating Arrays.cpp" />
     <ClCompile Include="Practice\942. Dynamic Memory Allocation.cpp" />
     <ClCompile Include="Practice\943. Pointer 5.cpp" />
     <ClCompile Include="Practice\944. Pointer 4.cpp" />
