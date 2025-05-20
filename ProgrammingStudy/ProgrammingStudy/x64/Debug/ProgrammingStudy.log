@@ -1,7 +1,2 @@
-﻿  940. Pointer and Const.cpp
-  941. Dynamic Allocating Arrays.cpp
-  코드를 생성하고 있습니다...
-C:\Users\hashin\Documents\GitHub\ProgrammingStudy\ProgrammingStudy\ProgrammingStudy\Practice\940. Pointer and Const.cpp(14,14): error C2373: 'ptr': 재정의. 형식 한정자가 다릅니다.
-      C:\Users\hashin\Documents\GitHub\ProgrammingStudy\ProgrammingStudy\ProgrammingStudy\Practice\940. Pointer and Const.cpp(10,8):
-      'ptr' 선언을 참조하십시오.
-  
+﻿  939. Reference.cpp
+  ProgrammingStudy.vcxproj -> C:\Users\hashin\Documents\GitHub\ProgrammingStudy\ProgrammingStudy\x64\Debug\ProgrammingStudy.exe
