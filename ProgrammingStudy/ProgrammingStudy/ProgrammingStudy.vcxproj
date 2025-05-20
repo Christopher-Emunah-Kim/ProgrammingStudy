@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure\VectorStackTemplate.cpp" />
+    <ClCompile Include="Practice\943. Pointer 5.cpp" />
+    <ClCompile Include="Practice\944. Pointer 4.cpp" />
     <ClCompile Include="Practice\945. Pointer 3.cpp" />
     <ClCompile Include="Practice\946. Pointer 2.cpp" />
     <ClCompile Include="Practice\947. Pointer 1.cpp" />

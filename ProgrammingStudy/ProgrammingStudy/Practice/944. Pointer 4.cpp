@@ -1,31 +1,44 @@
-#include <iostream>
-
-using namespace std;
-
-
-void pointArray(int array[]) //내부적으로 int* array와 동일.
-{
-	cout << sizeof(array) << endl;
-}
-
-int main()
-{
-	int array[5] = {9, 6, 5, 3, 1};
-
-	cout << array[0] << " " << array[1] << endl; //9 6
-	cout << array << endl; //000000703EEFFA58
-	cout << &(array[0]) << endl; //000000703EEFFA58
-	
-	cout << *array << endl; //배열의 주소 : 첫번쨰 인덱스값의 주소 : 9
-
-
-	int* ptr = array; //pointer(int포인터라는 의미)
-	cout << ptr << endl;  //000000703EEFFA58
-	cout << *ptr << endl; //9가 나옴. de-reference(주소에 접근해 값을 꺼내온다는 의미)
-	
-	//포인터 변수의 크기는 64비트 기준 8바이트. 32비트 기준 4바이트.
-	//함수 인자로 전달될떄 암묵적인 형변환(decay)가 일어남.
-	pointArray(array);
-
-	return 0;
-}
+//#include <iostream>
+//
+//using namespace std;
+//
+//
+//
+//int main()
+//{
+//	//포인터의 주소연산(Array Indexing)
+//	int value = 7;
+//	int *vptr = &value;
+//
+//	cout << uintptr_t(vptr -1) << endl; //958098504816
+//	cout << uintptr_t(vptr) << endl; //958098504820
+//	cout << uintptr_t(vptr +1) << endl; //958098504824
+//	cout << uintptr_t(vptr +2) << endl; //958098504828
+//	//integer타입이니까 메모리 공간 내에서 4씩 이동.
+//	//포인터 타입에 data type을 적는 이유 
+//	// : 데이터 타입을 통해 메모리 주소에서 읽어들일 양을 정하기 위해.
+//
+//	//int 타입 배열의 내부 주소 보기
+//	int array[] = {9, 6, 7, 2,3, 2};
+//
+//	int *ptr = array;
+//
+//	for (int i = 0; i < 5; ++i)
+//	{
+//		cout << *(ptr+i) << (uintptr_t)(ptr+i) << endl;
+//	}
+//
+//	//문자열의 주소연산
+//	char name[] = "Jack Jack";
+//
+//	const int n_name = sizeof(name) / sizeof(char);
+//
+//	char *ptr = name;
+//
+//	for (int i = 0; i < n_name; ++i)
+//	{
+//		cout << *(ptr + i);
+//	}
+//
+//	return 0;
+//}
