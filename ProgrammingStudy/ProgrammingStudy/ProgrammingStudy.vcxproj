@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure\VectorStackTemplate.cpp" />
+    <ClCompile Include="Practice\926. Function Pointer.cpp" />
+    <ClCompile Include="Practice\927. Default Parameters.cpp" />
+    <ClCompile Include="Practice\928. Function Overloading.cpp" />
+    <ClCompile Include="Practice\929. Inline Function.cpp" />
+    <ClCompile Include="Practice\930. Return_by_special thing.cpp" />
     <ClCompile Include="Practice\931. Return_by_smthing.cpp" />
     <ClCompile Include="Practice\932. Call_by_smthing.cpp" />
     <ClCompile Include="Practice\933. std_vector.cpp" />
