@@ -249,8 +249,11 @@
     <ClCompile Include="Practice\926. Function Pointer.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="971. BitMask" />
+    <ClCompile Include="Practice\925. Stack and Heap.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\924. Vector Stack.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
