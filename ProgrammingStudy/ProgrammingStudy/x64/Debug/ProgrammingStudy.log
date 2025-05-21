@@ -1,8 +1,84 @@
-﻿  926. Function Pointer.cpp
+﻿  VectorStackTemplate.cpp
+  926. Function Pointer.cpp
   927. Default Parameters.cpp
   928. Function Overloading.cpp
   929. Inline Function.cpp
   930. Return_by_special thing.cpp
   931. Return_by_smthing.cpp
+  932. Call_by_smthing.cpp
+  933. std_vector.cpp
+  934. std_array.cpp
+  935. Double Pointer Array.cpp
+  936. Void Pointer.cpp
+  937. Member Selection Operator.cpp
+  938. Reference and Const.cpp
+  939. Reference.cpp
+  940. Pointer and Const.cpp
+  941. Dynamic Allocating Arrays.cpp
+  942. Dynamic Memory Allocation.cpp
+  943. Pointer 5.cpp
+  944. Pointer 4.cpp
   코드를 생성하고 있습니다...
-  ProgrammingStudy.vcxproj -> C:\Users\hashin\Documents\GitHub\ProgrammingStudy\ProgrammingStudy\x64\Debug\ProgrammingStudy.exe
+  컴파일하고 있습니다...
+  945. Pointer 3.cpp
+  946. Pointer 2.cpp
+  947. Pointer 1.cpp
+  948. C_ArrayString.cpp
+  949. Multi_dimensional Array.cpp
+  950. Selection Sort.cpp
+  951. Array 3.cpp
+  952. Array 2.cpp
+  953. Array 1.cpp
+  954. cin_ignore_fail_clear.cpp
+  955. RandNumGenerator.cpp
+  956. For Reputation.cpp
+  957. While.cpp
+  958. Jump.cpp
+  959. Swtich Case.cpp
+  960. Conditional Branches.cpp
+  961. BaseStruct.cpp
+  962. Type Aliases.cpp
+  963. Scoped Enumerations.cpp
+  964. Enumerated Types.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  965. String.cpp
+  967. Type Conversion.cpp
+  968. Variables.cpp
+  969. BitFlag Quiz.cpp
+  970. BitMask.cpp
+  971. BitFlag.cpp
+  972. Bistwidse Operator.cpp
+  973. Logical Operator.cpp
+  974. Relational Operator.cpp
+  975. Conditional Operator.cpp
+  976. Comma Operator.cpp
+  977. floating point.cpp
+  978. Char Type2.cpp
+  979. Char Type.cpp
+  980. practice.cpp
+  981. HangManGame.cpp
+  982. SameStrPosition.cpp
+  983. EraseHypen.cpp
+  984. WhereIsRome.cpp
+E:\Projects\ProgrammingStudy\ProgrammingStudy\ProgrammingStudy\Practice\984. WhereIsRome.cpp(10,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  985. FuncSquare.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  985. printfOverloading.cpp
+  986. FuncSwap.cpp
+  987. TicTacToe.cpp
+  988. MultiplicationTable.cpp
+  989. FindBiggestNum.cpp
+  990. TestAverageArray.cpp
+  991. MathmaticsForElementary.cpp
+  992. FineNumber.cpp
+  993. VowelConsonant.cpp
+  994. multiplication.cpp
+  995. WhileCondition.cpp
+  996. DiceGame.cpp
+  997. PrefixPostfix.cpp
+  998. ChangeTemperature.cpp
+  999. BuyCandy.cpp
+  코드를 생성하고 있습니다...
+  ProgrammingStudy.vcxproj -> E:\Projects\ProgrammingStudy\ProgrammingStudy\x64\Debug\ProgrammingStudy.exe
