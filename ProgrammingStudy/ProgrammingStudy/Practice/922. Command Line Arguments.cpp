@@ -1,25 +1,25 @@
-#include <iostream>  
-#include <string>
-
-using namespace std;  
-
-//argc: ½ÇÇà ½Ã Àü´ŞµÈ ÀÎÀÚÀÇ °³¼ö (ÇÁ·Î±×·¥ ÀÌ¸§ Æ÷ÇÔ)
-//argv: ÀÎÀÚµéÀ» ´ã°í ÀÖ´Â ¹®ÀÚ¿­ ¹è¿­
-int main(int argc, char *argv[])
-{
-	for (int count = 0; count < argc; ++count)
-	{
-		string argv_single = argv[count];
-
-		if (count == 1)
-		{
-			int input_number = stoi(argv_single);
-			cout << input_number + 1 << endl;
-		}
-		else
-			cout << argv_single << endl;
-	}
-
-	return 0;
-}
-
+ï»¿//#include <iostream>  
+//#include <string>
+//
+//using namespace std;  
+//
+////argc: ì‹¤í–‰ ì‹œ ì „ë‹¬ëœ ì¸ìì˜ ê°œìˆ˜ (í”„ë¡œê·¸ë¨ ì´ë¦„ í¬í•¨)
+////argv: ì¸ìë“¤ì„ ë‹´ê³  ìˆëŠ” ë¬¸ìì—´ ë°°ì—´
+//int main(int argc, char *argv[])
+//{
+//	for (int count = 0; count < argc; ++count)
+//	{
+//		string argv_single = argv[count];
+//
+//		if (count == 1)
+//		{
+//			int input_number = stoi(argv_single);
+//			cout << input_number + 1 << endl;
+//		}
+//		else
+//			cout << argv_single << endl;
+//	}
+//
+//	return 0;
+//}
+//

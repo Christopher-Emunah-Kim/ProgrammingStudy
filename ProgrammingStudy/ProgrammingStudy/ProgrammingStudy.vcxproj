@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure\VectorStackTemplate.cpp" />
+    <ClCompile Include="Practice\917. Constructors.cpp" />
+    <ClCompile Include="Practice\918. Encapsulation.cpp" />
+    <ClCompile Include="Practice\919. Object Slicing.cpp" />
+    <ClCompile Include="Practice\920. Polymorphism 1.cpp" />
+    <ClCompile Include="Practice\921. oop basic.cpp" />
     <ClCompile Include="Practice\922. Command Line Arguments.cpp" />
     <ClCompile Include="Practice\923. Recursive Function Call.cpp" />
     <ClCompile Include="Practice\924. Vector Stack.cpp" />

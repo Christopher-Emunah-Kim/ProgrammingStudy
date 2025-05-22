@@ -261,5 +261,20 @@
     <ClCompile Include="Practice\922. Command Line Arguments.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
+    <ClCompile Include="Practice\921. oop basic.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\920. Polymorphism 1.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\919. Object Slicing.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\918. Encapsulation.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\917. Constructors.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
