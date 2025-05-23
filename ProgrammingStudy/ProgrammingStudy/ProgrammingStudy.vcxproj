@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure\VectorStackTemplate.cpp" />
+    <ClCompile Include="Practice\910. IO operator overloading.cpp" />
+    <ClCompile Include="Practice\911. Arithmetic Overloading.cpp" />
     <ClCompile Include="Practice\912. Class Composition.cpp" />
     <ClCompile Include="Practice\913. Friend Function.cpp" />
     <ClCompile Include="Practice\914. Const Reference.cpp" />

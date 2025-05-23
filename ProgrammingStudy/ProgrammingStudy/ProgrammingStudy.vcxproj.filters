@@ -291,5 +291,11 @@
     <ClCompile Include="Practice\912. Class Composition.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
+    <ClCompile Include="Practice\911. Arithmetic Overloading.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice\910. IO operator overloading.cpp">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
