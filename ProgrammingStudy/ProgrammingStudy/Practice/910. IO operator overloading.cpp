@@ -19,6 +19,10 @@ public:
 		cout << m_x << " " << m_y << " " << m_z << endl;
 	}
 
+	friend std::ostream& operator << (std::ostream& out, const Point& point)
+	{
+		out << m_x << " " << m_y << " " << m_z;
+	}
 };
 
 
