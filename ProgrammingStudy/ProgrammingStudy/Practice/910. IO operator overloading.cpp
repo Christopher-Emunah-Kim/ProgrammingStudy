@@ -2,42 +2,31 @@
 using namespace std;
 
 
-class Cents
+class Point
 {
 private:
-	int32_t m_cents;
+	double m_x, m_y, m_z;
 
 public:
-	Cents(int32_t cents = 0) { m_cents = cents;  }
-	Cents(int32_t cents) { m_cents = cents;  }
-	int32_t getCents() const { return m_cents; }
+	Point(double x =0.0, double y = 0.0, double z= 0.0) : m_x(x), m_y(y), m_z(z) {}
 
-	int32_t& getCents() { return m_cents; }
+	double getX() {	return m_x; }
+	double getY() {	return m_y; }
+	double getZ() {	return m_z; }
 
-	/*friend Cents operator + (const Cents& c1, const Cents& c2)
+	void print()
 	{
-		return Cents(c1.getCents() + c2.getCents());
-	}*/
-
-	Cents operator + (const Cents& other)
-	{
-		return Cents(this->m_cents + other.m_cents);
+		cout << m_x << " " << m_y << " " << m_z << endl;
 	}
+
 };
-
-
-//Cents operator + (const Cents& c1, const Cents& c2)
-//{
-//	return Cents(c1.getCents() + c2.getCents());
-//}
 
 
 int main()
 {
-	Cents cents1(6);
-	Cents cents2(8);
+	Point p1(0.0, 0.1, 0.2), p2(3.4, 1.5, 2.0);
 
-	cout << (cents1 + cents2 + Cents(6) + Cents(10)).getCents() << endl;
+	//cout << p1 << " " << p2 << endl;
 
 
 
