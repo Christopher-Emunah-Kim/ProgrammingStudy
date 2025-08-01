@@ -127,6 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinaryTree.cpp" />
+    <ClCompile Include="DataStructure\BinarySearch.cpp" />
+    <ClCompile Include="DataStructure\bubblesort.cpp" />
+    <ClCompile Include="DataStructure\LinkedList.cpp" />
+    <ClCompile Include="DataStructure\listQueue.cpp" />
+    <ClCompile Include="DataStructure\selectionsort.cpp" />
+    <ClCompile Include="DataStructure\Stack.cpp" />
     <ClCompile Include="DataStructure\VectorStackTemplate.cpp" />
     <ClCompile Include="Practice\910. IO operator overloading.cpp" />
     <ClCompile Include="Practice\911. Arithmetic Overloading.cpp" />
