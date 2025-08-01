@@ -1,46 +1,47 @@
-﻿
-int* stack;
-int size;
-int top = -1;
+﻿class Stack {
+private:
+	int* stack;
+	int size;
+	int top;
 
-void InitStack(int newSize)
-{
-	size = newSize;
-	stack = new int[newSize];
-}
-
-
-void DeleteStack()
-{
-	delete[] stack;
-	stack = nullptr;
-	size = 0;
-	top = -1;
-}
-
-
-bool Push(int data)
-{
-	if(top < size - 1)
-	{
-		top++;
-		stack[top] = data;
-		return true;
+public:
+	Stack(int newSize) {
+		if (newSize <= 0) {
+			throw std::invalid_argument("Size must be positive.");
+		}
+		size = newSize;
+		stack = new int[newSize];
+		top = -1;
 	}
-	else
-	{
-		return false;
-	}
-}
 
-int Pop()
-{
-	if (top >= 0)
-	{
+	~Stack() {
+		delete[] stack;
+		stack = nullptr;
+	}
+
+	
+	bool Push(int data) {
+		if (top < size - 1) {
+			stack[++top] = data;
+			return true;
+		}
+		else {
+			return false; 
+		}
+	}
+
+	int Pop() {
+		if (IsEmpty()) {
+			throw std::out_of_range("Stack is empty.");
+		}
 		return stack[top--];
 	}
-	else
-	{
-		return -1;
+
+	bool IsEmpty() const {
+		return top == -1;
 	}
-}
+
+	bool IsFull() const {
+		return top == size - 1;
+	}
+};
